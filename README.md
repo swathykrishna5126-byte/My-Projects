@@ -11,3 +11,9 @@ This repository contains my academic and analytics projects.
 - Created KPI cards for business insights
 
 Tools: Microsoft Excel
+
+### Skills Gained
+- Data analysis using Excel
+- PivotTables & PivotCharts
+- KPI creation and dashboard design
+- Business data interpretation
